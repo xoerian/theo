@@ -34,7 +34,10 @@ justify-content: center;
  
 }
 
-
+.topname{
+    display: flex;
+    justify-content: center;
+}
 a{
     text-decoration: none;
     text-decoration-style: none;
